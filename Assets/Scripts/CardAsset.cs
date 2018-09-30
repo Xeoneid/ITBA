@@ -4,7 +4,7 @@ using UnityEngine;
 
 [CreateAssetMenu]
 public class CardAsset : ScriptableObject {
-
+    
     public Sprite sprite;
     public CardType cardType;
     public CardValue cardValue;
