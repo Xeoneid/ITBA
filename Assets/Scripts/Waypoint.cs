@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.Events;
 
 public class Waypoint : MonoBehaviour {
 
@@ -12,6 +13,7 @@ public class Waypoint : MonoBehaviour {
     /// Can the player get back here?
     /// </summary>
     public bool returnable = true;
+    public UnityEvent onTravelling = new UnityEvent();
 
     private void Start()
     {
@@ -21,5 +23,6 @@ public class Waypoint : MonoBehaviour {
     public void TravelTo(BaseEventData eventData)
     {
         player.MoveTo(this);
+        onTravelling.Invoke();
     }
 }
