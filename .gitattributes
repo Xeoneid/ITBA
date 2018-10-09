@@ -45,3 +45,5 @@
 .TTF filter=lfs diff=lfs merge=lfs -text
 .obj filter=lfs diff=lfs merge=lfs -text
 .OBJ filter=lfs diff=lfs merge=lfs -text
+.dae filter=lfs diff=lfs merge=lfs -text
+.DAE filter=lfs diff=lfs merge=lfs -text
