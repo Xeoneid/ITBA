@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 114001131386367062}
   - component: {fileID: 65512200557736836}
   m_Layer: 0
-  m_Name: Card
+  m_Name: JokerOfJoker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
