@@ -1,9 +1,9 @@
 # VR Experience @ ITBA
 *In memory of my dear friend Mauro Guarino, RIP*
 
-**WARNING:** 
-This project is distributed AS IS. There is no warranty at all nor I'm planning to continue it.
+------
 
+![](http://pressover.news/wp-content/uploads/2018/09/ITBA-Game-Jam.jpg)
 
 ------
 
