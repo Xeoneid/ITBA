@@ -1,7 +1,13 @@
-# VR Experience
+# VR Experience @ ITBA
 *In memory of my dear friend Mauro Guarino, RIP*
 
-This is an small VR Experience I made for Google Cardboard in a single night during a jam where I took part as a mentor.
+**WARNING:** 
+This project is distributed AS IS. There is no warranty at all nor I'm planning to continue it.
+
+
+------
+
+An small VR Experience I made for Google Cardboard in a single night during a jam where I took part as a mentor.
 
 Controls:
 Cardboard Button (screen touch) while:
